@@ -5,3 +5,5 @@ build
 microservice.iml
 gradle
 uiDesigner.xml
+gradlew.bat
+gradlew
