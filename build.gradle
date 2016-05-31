@@ -24,6 +24,10 @@ dependencies {
     compile('org.projectlombok:lombok:1.16.8')
 
     //general
+    // http://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: '0.9.26'
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.6.1'
+
 //    compile('org.slf4j:jcl-over-slf4j:1.7.5')
 //    compile('org.slf4j:slf4j-api:1.7.5')
 //    testCompile('org.slf4j:slf4j-log4j12:1.7.5')
