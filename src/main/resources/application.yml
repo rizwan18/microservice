@@ -1,0 +1,12 @@
+server:
+  contextPath: /microservice
+  port: 8080
+
+error:
+  whitelabel:
+    enabled: false
+
+#spring:
+#  active:
+#    profile: riz
+

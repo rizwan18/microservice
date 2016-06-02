@@ -1,4 +1,4 @@
-package com.riz.application;
+package com.riz.bean;
 
 import lombok.Data;
 
